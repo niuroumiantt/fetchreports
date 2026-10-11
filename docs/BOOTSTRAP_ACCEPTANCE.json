@@ -1,0 +1,19 @@
+{
+  "date": "2026-10-11",
+  "source_url": "https://bies.lbl.gov/publications/2024-lbnl-data-center-energy-usage-report",
+  "collector_revision": "624619af6f8db7d6fac2d943e700d6f604360335",
+  "source_sha256": "223c050d6a91c4cdfd1aff193da86d8333aa9181f5d59b39e5e80c43ee87e289",
+  "original_bytes": 28972,
+  "real_candidates": 1,
+  "offline_valid": true,
+  "replay_verified": true,
+  "unit_tests_passed": 8,
+  "model_calls": 0,
+  "research_received": false,
+  "adopted": false,
+  "scheduled": false,
+  "limitations": [
+    "Research reception/adoption/website separate; unresolved identity remains a lead",
+    "PDF HTTP403; only native publication method metadata extracted, no report numeric claim"
+  ]
+}
